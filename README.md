@@ -1,4 +1,4 @@
-# Predicting Falty Water Pumps in Tanzania
+# Predicting the Status of Water Pumps in Tanzania
 
 #### File descriptions
 * train_features.csv : the training set features
