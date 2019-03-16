@@ -1,15 +1,17 @@
-# Predictive Modeling Challenge
+# Predicting Falty Water Pumps in Tanzania
 
-File descriptions
-train_features.csv : the training set features
-train_labels.csv : the training set labels
-test_features.csv : the test set features
-sample_submission.csv : a sample submission file in the correct format
-Features
-Your goal is to predict the operating condition of a waterpoint for each record in the dataset. You are provided the following set of information about the waterpoints:
+**File descriptions**
+* train_features.csv : the training set features
+* train_labels.csv : the training set labels
+* test_features.csv : the test set features
+* sample_submission.csv : a sample submission file in the correct format
+**Features**
+The goal was to predict the operating condition of a waterpoint for each record in the dataset provided the following set of information about the waterpoints:
 
 amount_tsh : Total static head (amount water available to waterpoint)
+
 date_recorded : The date the row was entered
+
 funder : Who funded the well
 gps_height : Altitude of the well
 installer : Organization that installed the well
