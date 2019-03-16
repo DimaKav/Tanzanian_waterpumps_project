@@ -1,5 +1,10 @@
 # Predicting the Status of Water Pumps in Tanzania
 
+#### Summary
+Using data from Taarifa and the Tanzanian Ministry of Water, I predicted which pumps are functional, which need some repairs, and which don't work at all. The features are mainly based on a number of variables about what kind of pump is operating, when it was installed, and how it is managed. A smart understanding of which waterpoints will fail can improve maintenance operations and ensure that clean, potable water is available to communities across Tanzania.
+
+This predictive modeling challenge comes from DrivenData, an organization who helps non-profits by hosting data science competitions for social impact. The competition has open licensing: "The data is available for use outside of DrivenData." The data comes from the Taarifa waterpoints dashboard, which aggregates data from the Tanzania Ministry of Water. In their own words: > Taarifa is an open source platform for the crowd sourced reporting and triaging of infrastructure related issues. 
+
 #### File descriptions
 * train_features.csv : the training set features
 * train_labels.csv : the training set labels
